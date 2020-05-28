@@ -1,0 +1,11 @@
+//Created by Rottweiler (STEAM_0:0:41687170)
+//http://steamcommunity.com/id/RottweilerOG/
+
+"VertexlitGeneric"
+{
+	"$basetexture" "Rottweiler/drugs/cannabis"
+	"$normalmap" "Rottweiler/drugs/cannabis_norm"
+	"$surfaceprop" "Grass"
+	"$alphatest" 1
+	"$alpha" 1
+}
